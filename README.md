@@ -51,3 +51,4 @@ Include a brief description of how to use your app and possibly include a link t
 - We have used Indian Food Classification Dataset.
 - It contains around 20 classes of Indian Food Items.
 - For each class it contains 130-350 images.
+cv
